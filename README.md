@@ -9,4 +9,4 @@ The repositories are:
 - [Exercice 4 : Training Transformer on text classification ](https://github.com/elisemyr/EX4_NLP_LLM)
 - [LAB1 : Text Classification](https://github.com/elisemyr/LAB1_TEXT_CLASS/tree/main)
 and the LAB2 made on Google Collab is also in this repository
-- [LAB3 : Finetuning Llama]([https://github.com/elisemyr/LAB1_TEXT_CLASS/tree/main](https://github.com/elisemyr/LAB3_NLP_LLM_FINETUNING_LLAMA_HF))
+- [LAB3 : Finetuning Llama](https://github.com/elisemyr/LAB3_NLP_LLM_FINETUNING_LLAMA_HF)
