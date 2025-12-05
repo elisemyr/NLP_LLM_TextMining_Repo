@@ -8,3 +8,4 @@ The repositories are:
 - [Exercice 3 : Hello World Transformer](https://github.com/elisemyr/hello_world_transformer)
 - [Exercice 4 : Training Transformer on text classification ](https://github.com/elisemyr/EX4_NLP_LLM)
 - [LAB1 : Text Classification](https://github.com/elisemyr/LAB1_TEXT_CLASS/tree/main)
+and the LAB2 made on Google Collab is also in this repository 
