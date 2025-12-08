@@ -10,3 +10,4 @@ The repositories are:
 - [LAB1 : Text Classification](https://github.com/elisemyr/LAB1_TEXT_CLASS/tree/main)
 and the LAB2 made on Google Collab is also in this repository
 - [LAB3 : Finetuning Llama](https://github.com/elisemyr/LAB3_NLP_LLM_FINETUNING_LLAMA_HF)
+- [Additional NLP, LLM Project](https://github.com/elisemyr/optional_nlp_project)
